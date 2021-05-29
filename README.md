@@ -1,7 +1,7 @@
 # Barycentric Coordinates Example
 
 ## Working Example
-You can check out an example at [ADDING SOON](ADDING SOON)
+You can check out an example at [https://trueregin.github.io/barycentric-coordinates/dist/](https://trueregin.github.io/barycentric-coordinates/dist/)
 
 ## Explanation
 A special coordinate basis that determines your coordinates as a weight of 3 vectors on a triangle.
